@@ -1,4 +1,4 @@
-# Detecção Automática das celulas brancas usando OpenCV
+# Detecção Automática das Células Brancas usando OpenCV
 
 Algoritmo usado para fazer a detecção criando uma `Bouding Box`nas imagens onde encontrado a região de interesse.
 

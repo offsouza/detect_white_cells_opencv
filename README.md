@@ -9,10 +9,15 @@ Apenas um algoritmo simples usado usando visão computacional.
 ## Overview
 
 **Imagem original:**
-![alt text](https://github.com/offsouza/detect_white_cells_opencv/blob/master/ori.jpg)
-
+<p align="center">
+  <img width="360" height="288" src="https://github.com/offsouza/detect_white_cells_opencv/blob/master/ori.jpg">
+</p>
 **Após algumas transformações:**
-![alt text](https://github.com/offsouza/detect_white_cells_opencv/blob/master/transf.jpg)
+<p align="center">
+  <img width="360" height="288" src="https://github.com/offsouza/detect_white_cells_opencv/blob/master/transf.jpg">
+</p>
 
 **Desenho da Bouding Box:**
-![alt text](https://github.com/offsouza/detect_white_cells_opencv/blob/master/Box.jpg)
+<p align="center">
+  <img width="360" height="288" src="https://github.com/offsouza/detect_white_cells_opencv/blob/master/Box.jpg">
+</p>

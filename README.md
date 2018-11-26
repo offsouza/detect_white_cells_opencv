@@ -6,6 +6,13 @@ As imagens contidas da pasta  `imagens/baso` foram retiradas do banco de dados [
 
 Apenas um algoritmo simples usado usando visão computacional.
 
-[imagem1]: https://github.com/offsouza/detect_white_cells_opencv/blob/master/transf.jpg
+## Overview
 
+**Imagem original:**
+![alt text](https://github.com/offsouza/detect_white_cells_opencv/blob/master/ori.jpg)
 
+**Após algumas transformações:**
+![alt text](https://github.com/offsouza/detect_white_cells_opencv/blob/master/transf.jpg)
+
+**Desenho da Bouding Box:**
+![alt text](https://github.com/offsouza/detect_white_cells_opencv/blob/master/Box.jpg)
